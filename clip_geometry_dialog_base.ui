@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Clip with Geometry</string>
+   <string>Author: bipinmsit - Clip with Geometry</string>
   </property>
   <widget class="QDialogButtonBox" name="button_box">
    <property name="geometry">
